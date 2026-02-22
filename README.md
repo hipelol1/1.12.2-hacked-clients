@@ -3,3 +3,8 @@
 Current 1.12.2 Hacked Clients:
 - Auto Client
 - Imp Client
+
+
+# Clients that are not in the main section SHOULD be in releases.
+Clients that are in Releases:
+- Imp Client
